@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=mygomii&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mygomii&show_icons=true&theme=radical)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%823d4c&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
