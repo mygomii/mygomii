@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mygomii&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=1F7B2F&height=300&section=header&text=capsule%20render&fontSize=90)
